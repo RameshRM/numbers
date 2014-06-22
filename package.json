@@ -1,6 +1,6 @@
 {
     "name": "number-helpers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Collection of NPM Module dedicated for numbers and math",
     "main": "./lib/number-helpers.js",
     "scripts": {
@@ -12,6 +12,8 @@
     },
     "keywords": [
         "numbers",
+        "happy",
+        "happy numbers",
         "math",
         "helpers"
     ],
