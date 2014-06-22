@@ -1,39 +1,41 @@
 {
-  "name": "number-helpers",
-  "version": "1.0.0",
-  "description": "Collection of NPM Module dedicated for numbers and math",
-  "main": "./lib/number-helpers.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/RameshRM/numbers"
-  },
-  "keywords": [
-    "numbers",
-    "math",
-    "helpers"
-  ],
-  "author": "Ramesh Mahadevan",
-  "bugs": {
-    "url": "https://github.com/RameshRM/numbers/issues"
-  },
-  "homepage": "https://github.com/RameshRM/numbers",
-
-  "dependencies": {
-    "mocha": "*",
-    "chai" : "*"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-jshint": "~0.4.3",
-    "grunt-contrib-watch": "~0.4.0",
-    "grunt-contrib-concat": "~0.4.0",
-    "grunt": "~0.4.1",
-    "grunt-browserify": "~1.0.0",
-    "grunt-simple-mocha" : "*",
-    "grunt-cli": "~0.1.8"
-  }
+    "name": "number-helpers",
+    "version": "1.0.1",
+    "description": "Collection of NPM Module dedicated for numbers and math",
+    "main": "./lib/number-helpers.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RameshRM/numbers"
+    },
+    "keywords": [
+        "numbers",
+        "math",
+        "helpers"
+    ],
+    "author": "Ramesh Mahadevan",
+    "bugs": {
+        "url": "https://github.com/RameshRM/numbers/issues"
+    },
+    "homepage": "https://github.com/RameshRM/numbers",
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/"
+    },
+    "dependencies": {
+        "mocha": "*",
+        "chai": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-contrib-jshint": "~0.4.3",
+        "grunt-contrib-watch": "~0.4.0",
+        "grunt-contrib-concat": "~0.4.0",
+        "grunt": "~0.4.1",
+        "grunt-browserify": "~1.0.0",
+        "grunt-simple-mocha": "*",
+        "grunt-cli": "~0.1.8"
+    }
 }
