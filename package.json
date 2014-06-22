@@ -1,6 +1,6 @@
 {
     "name": "number-helpers",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Collection of NPM Module dedicated for numbers and math",
     "main": "./lib/number-helpers.js",
     "scripts": {
