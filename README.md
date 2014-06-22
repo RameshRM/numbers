@@ -1,4 +1,4 @@
-number-helpers
+number-helpers [![Build Status](https://travis-ci.org/RameshRM/numbers.svg?branch=master)](https://travis-ci.org/RameshRM/numbers)
 =======
 
 Collection of NPM Module dedicated for numbers and math
