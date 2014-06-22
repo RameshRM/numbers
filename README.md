@@ -13,7 +13,7 @@ UnHappy Number will never result in 1 , mostly will reach a infinite loop.
 
 ###### Example
 
-####### Input is 7 - Happy Number
+###### Input is 7 - Happy Number
 
 ```
   (7)*(7) = 49;
@@ -23,7 +23,7 @@ UnHappy Number will never result in 1 , mostly will reach a infinite loop.
   (1*1) + (0*0) => 1 + 0 = 1
 ```
 
-####### Input is 2 - UnHappy Number
+###### Input is 2 - UnHappy Number
 
 ```
   (2*2) = 4;
