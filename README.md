@@ -5,7 +5,7 @@ Collection of NPM Module dedicated for numbers and math
 
 #### Happy Numbers
 
-##### What Is Happy Number 
+##### What Is Happy Number
 
 Happy Number is square every digit of a number left to right and keep adding up the sum until the result is 1
 
@@ -45,25 +45,25 @@ UnHappy Number will never result in 1 , mostly will reach a infinite loop.
 ```
 
 
-##### Installation 
+##### Installation
 
 ```node
 
-  var number-helpers = require('number-helpers');
-  
+  var number_helpers = require('number-helpers');
+
   /* input number is 7 ***/
-  number-helpers.ishappy(7); /*** Returns True ***/
+  number_helpers.ishappy(7); /*** Returns True ***/
 
   /* input number is 1 ***/
-  number-helpers.ishappy(1); /*** Returns True ***/
-  
+  number_helpers.ishappy(1); /*** Returns True ***/
+
   /* input number is 10 ***/
-  number-helpers.ishappy(10); /*** Returns True ***/
+  number_helpers.ishappy(10); /*** Returns True ***/
 
 
   /* input number is 2 ***/
-  number-helpers.ishappy(2); /*** Returns False ***/
-  
+  number_helpers.ishappy(2); /*** Returns False ***/
+
 ```
 
 
