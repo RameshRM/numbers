@@ -2,7 +2,7 @@
     "name": "number-helpers",
     "version": "1.0.3",
     "description": "Collection of NPM Module dedicated for numbers and math",
-    "main": "./lib/number-helpers.js",
+    "main": "./number-helpers.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
