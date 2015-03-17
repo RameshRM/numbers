@@ -70,4 +70,6 @@ UnHappy Number will never result in 1 , mostly will reach a infinite loop.
 
 ```
 
+[![NPM](https://nodei.co/npm/number-helpers.png)](https://nodei.co/npm/number-helpers/)
+
 
