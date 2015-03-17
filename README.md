@@ -25,6 +25,10 @@ UnHappy Number will never result in 1 , mostly will reach a infinite loop.
 
 ###### Input is 2 - UnHappy Number
 
+====
+
+[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/<package>/)
+
 ```
   (2*2) = 4;
   (4*4) = 16;
